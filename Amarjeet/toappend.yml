@@ -1,0 +1,24 @@
+---
+controller_credentials:
+  - name: reconcile_add_computed_values_molecule_rgandhi
+    description: New credential for automation tower
+    organization: PCS-Platform
+    credential_type: CyberArk AIM Central Credential Provider Lookup
+    inputs:
+      app_id: AAB022575_T_C
+      url: https://ca-ccp.nl.eu.abnamro.com
+      verify: true
+    aap_inputs:
+      safe: AAB022575_OP_T_C
+      block_id: BLK0004951
+  - name: reconcile_add_computed_values_molecule_amarjeet
+    description: New credential for automation tower
+    organization: PCS-Platform
+    credential_type: CyberArk AIM Central Credential Provider Lookup
+    inputs:
+      app_id: AAB022575_T_C
+      url: https://ca-ccp.nl.eu.abnamro.com
+      verify: true
+    aap_inputs:
+      safe: AAB022575_OP_T_C
+      block_id: BLK0004951

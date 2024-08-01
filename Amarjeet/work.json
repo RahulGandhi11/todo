@@ -1,0 +1,30 @@
+{
+    "/workspace/src/pcsas-aap-automation/collections/ansible_collections/pcsas/aap_automation/tests/molecule/reconcile_add_computed_values/fixtures/orgs_vars/PCS-NG/env/dt/controller_credentials.d/molecule_1/controller_credential_aap_automation.yml": [
+        {
+            "name": "reconcile_add_computed_values_molecule_3",
+            "computed_values": {
+                "certificate_serial_number": "askjhasasd",
+                "certificate_expiration_date": "25/09/2024",
+                "certificate_hostname": "molecule3_myhostname.abnamro.com"
+            }
+        },
+        {
+            "name": "reconcile_add_computed_values_molecule_1",
+            "computed_values": {
+                "certificate_serial_number": "askjhasasd",
+                "certificate_expiration_date": "25/09/2024",
+                "certificate_hostname": "molecule1_myhostname.abnamro.com"
+            }
+        }
+    ],
+    "/workspace/src/pcsas-aap-automation/collections/ansible_collections/pcsas/aap_automation/tests/molecule/reconcile_add_computed_values/fixtures/orgs_vars/PCS-NG/env/dt/controller_credentials.d/molecule_2/controller_credential_aap_automation.yml": [
+        {
+            "name": "reconcile_add_computed_values_molecule_2",
+            "computed_values": {
+                "certificate_serial_number": "askjhasasd",
+                "certificate_expiration_date": "25/09/2024",
+                "certificate_hostname": "molecule2_myhostname.abnamro.com"
+            }
+        }
+    ]
+}
